@@ -39,10 +39,10 @@ To maximize total profit by selecting the best production mix under limited oven
 
 ## Preview
 ### Model Worksheet
-![Bakery Optimization Model](Bakery Optimization.png)
+![Bakery Optimization Model](bakery-optimization-preview.png)
 
 ### Solver Setup
-![Solver Settings](LP Solver Settings.png)
+![Solver Settings](solver-settings.png)
 
 ## Why This Project Matters
 This project demonstrates structured problem-solving, optimization modeling, and Excel-based decision support for operational planning.
